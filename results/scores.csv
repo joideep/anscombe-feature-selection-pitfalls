@@ -1,0 +1,5 @@
+dataset,Pearson r,Spearman rho,Kendall tau-b,Mutual information,Distance correlation,Chi-square,Chi-square p,Fisher exact p
+I,0.8164,0.8182,0.6364,0.329,0.8239,2.2275,0.1356,0.0801
+II,0.8162,0.6909,0.5636,0.403,0.8688,2.2275,0.1356,0.0801
+III,0.8163,0.9909,0.9636,0.4809,0.9065,7.3364,0.0068,0.0022
+IV,0.8165,0.5,0.4264,0.1215,0.8068,0.0092,0.9237,0.4545
